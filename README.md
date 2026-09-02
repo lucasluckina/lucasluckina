@@ -8,7 +8,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com experiência pr
 - 💻 Experiência com desenvolvimento e evolução de sistemas web
 - 🤖 Uso de Claude, Codex e ChatGPT no fluxo de desenvolvimento
 - 🔗 Experiência com integração de APIs, incluindo Meta e LinkedIn
-- 🐧 Contato com Git/GitHub, Linux e ambientes de desenvolvimento
+- 🐧 Experiência com Git/GitHub, Linux e ambientes de desenvolvimento
 - 🚀 Buscando oportunidades de estágio na área de tecnologia
 
 ## Tecnologias e ferramentas
