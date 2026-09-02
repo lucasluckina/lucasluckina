@@ -19,7 +19,7 @@ APIs REST • Claude • Codex • ChatGPT
 
 ## Projetos
 
-### PostDesk / DuoPost
+### DuoPost
 Plataforma desenvolvida para centralizar e organizar a gestão de conteúdo para redes sociais, permitindo trabalhar com diferentes plataformas em um único sistema.
 
 Experiência com desenvolvimento do sistema, criação de funcionalidades e integrações com APIs da Meta e LinkedIn.
